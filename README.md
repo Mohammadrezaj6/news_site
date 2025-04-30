@@ -23,3 +23,7 @@ ___
 + Database: Mysql
 + Frontend: Html & Css
 + Bootstrap
+
+___
+دموی صفحه اصلی سایت :
+https://mohammadrezaj6.github.io/news_site/
